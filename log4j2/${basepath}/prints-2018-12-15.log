@@ -1,0 +1,9 @@
+12:29:33.758 [main] FATAL uppi.Dev1 - something is missing
+12:30:34.955 [main] ERROR uppi.Dev1 - object is not displayed
+12:30:34.960 [main] FATAL uppi.Dev1 - something is missing
+12:31:02.134 [main] ERROR raa.Dev - element is not displayed
+12:31:02.139 [main] FATAL raa.Dev - object is missing
+14:04:17.849 [main] DEBUG raa.Dev - click on checkbox
+14:04:17.851 [main] INFO  raa.Dev - gives checkbox information
+14:04:17.851 [main] ERROR raa.Dev - element is not displayed
+14:04:17.851 [main] FATAL raa.Dev - object is missing
