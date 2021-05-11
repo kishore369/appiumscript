@@ -1,0 +1,10 @@
+17:02:57.508 [main] FATAL alpha.Demo - kingmaker
+17:02:57.549 [main] ERROR alpha.Demo - object is present
+17:13:18.641 [main] DEBUG beta.Demo1 - i am fine
+17:13:18.644 [main] INFO  beta.Demo1 - i am not fine
+17:13:18.644 [main] FATAL beta.Demo1 - kingmaker
+17:13:18.644 [main] ERROR beta.Demo1 - object is present
+20:49:17.137 [main] DEBUG beta.Demo1 - i am fine
+20:49:17.140 [main] INFO  beta.Demo1 - i am not fine
+20:49:17.140 [main] FATAL beta.Demo1 - kingmaker
+20:49:17.140 [main] ERROR beta.Demo1 - object is present

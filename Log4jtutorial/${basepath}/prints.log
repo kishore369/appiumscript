@@ -1,0 +1,4 @@
+08:26:07.601 [main] DEBUG beta.Demo1 - i am fine
+08:26:07.617 [main] INFO  beta.Demo1 - i am not fine
+08:26:07.617 [main] FATAL beta.Demo1 - kingmaker
+08:26:07.617 [main] ERROR beta.Demo1 - object is present
